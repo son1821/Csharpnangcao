@@ -29,6 +29,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Delgate1", "Delgate1\Delgat
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Event_Delegate", "Event_Delegate\Event_Delegate.csproj", "{32836E61-CDD9-4C29-B378-CC1E432BD7F0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EventChuanNet", "EventChuanNet\EventChuanNet.csproj", "{70E164E3-E600-4037-B961-F49FD5AFBE64}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +89,10 @@ Global
 		{32836E61-CDD9-4C29-B378-CC1E432BD7F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{32836E61-CDD9-4C29-B378-CC1E432BD7F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{32836E61-CDD9-4C29-B378-CC1E432BD7F0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{70E164E3-E600-4037-B961-F49FD5AFBE64}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70E164E3-E600-4037-B961-F49FD5AFBE64}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70E164E3-E600-4037-B961-F49FD5AFBE64}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70E164E3-E600-4037-B961-F49FD5AFBE64}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
