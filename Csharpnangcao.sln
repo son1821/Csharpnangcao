@@ -7,17 +7,19 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ArrayList1", "ArrayList1\Ar
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HashTable1", "HashTable1\HashTable1.csproj", "{6ED6E81D-23BA-41E5-AD07-71AEA1F7C749}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SortedList1", "SortedList1\SortedList1.csproj", "{198BC52D-72B4-4669-8383-0FBFC6E7E90A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SortedList1", "SortedList1\SortedList1.csproj", "{198BC52D-72B4-4669-8383-0FBFC6E7E90A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stack1", "Stack1\Stack1.csproj", "{82ACC264-4DEA-4E78-AAE4-074E8A9B5941}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Stack1", "Stack1\Stack1.csproj", "{82ACC264-4DEA-4E78-AAE4-074E8A9B5941}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Queue1", "Queue1\Queue1.csproj", "{04290CE9-98DA-4F9D-9B01-7BD6FE65C559}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Queue1", "Queue1\Queue1.csproj", "{04290CE9-98DA-4F9D-9B01-7BD6FE65C559}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BitArray1", "BitArray1\BitArray1.csproj", "{87F856EE-3E13-4252-AB40-F97F1AAB313E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BitArray1", "BitArray1\BitArray1.csproj", "{87F856EE-3E13-4252-AB40-F97F1AAB313E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Generic1", "Generic1\Generic1.csproj", "{EF170CE1-978E-4732-9055-1D6E1342BC2C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Generic1", "Generic1\Generic1.csproj", "{EF170CE1-978E-4732-9055-1D6E1342BC2C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "List1", "List1\List1.csproj", "{EC54DA2E-8FD4-4BA3-B598-A8499907C954}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "List1", "List1\List1.csproj", "{EC54DA2E-8FD4-4BA3-B598-A8499907C954}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dictionary1", "Dictionary1\Dictionary1.csproj", "{09920C9E-C443-4D48-856A-288A56043329}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -57,6 +59,10 @@ Global
 		{EC54DA2E-8FD4-4BA3-B598-A8499907C954}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EC54DA2E-8FD4-4BA3-B598-A8499907C954}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EC54DA2E-8FD4-4BA3-B598-A8499907C954}.Release|Any CPU.Build.0 = Release|Any CPU
+		{09920C9E-C443-4D48-856A-288A56043329}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09920C9E-C443-4D48-856A-288A56043329}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09920C9E-C443-4D48-856A-288A56043329}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09920C9E-C443-4D48-856A-288A56043329}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
