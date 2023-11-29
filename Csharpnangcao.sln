@@ -27,6 +27,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ICollection1", "ICollection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Delgate1", "Delgate1\Delgate1.csproj", "{FF5C3C7C-E299-4B9E-B2FE-CCE405300987}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Event_Delegate", "Event_Delegate\Event_Delegate.csproj", "{32836E61-CDD9-4C29-B378-CC1E432BD7F0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -81,6 +83,10 @@ Global
 		{FF5C3C7C-E299-4B9E-B2FE-CCE405300987}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FF5C3C7C-E299-4B9E-B2FE-CCE405300987}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FF5C3C7C-E299-4B9E-B2FE-CCE405300987}.Release|Any CPU.Build.0 = Release|Any CPU
+		{32836E61-CDD9-4C29-B378-CC1E432BD7F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32836E61-CDD9-4C29-B378-CC1E432BD7F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32836E61-CDD9-4C29-B378-CC1E432BD7F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32836E61-CDD9-4C29-B378-CC1E432BD7F0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
