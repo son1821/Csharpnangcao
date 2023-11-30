@@ -23,13 +23,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Dictionary1", "Dictionary1\
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tuple1", "Tuple1\Tuple1.csproj", "{96F53C83-29A0-46BA-9CD2-186994947A48}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ICollection1", "ICollection1\ICollection1.csproj", "{BBE17F47-A203-4B03-9D7B-019980F33B61}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ICollection1", "ICollection1\ICollection1.csproj", "{BBE17F47-A203-4B03-9D7B-019980F33B61}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Delgate1", "Delgate1\Delgate1.csproj", "{FF5C3C7C-E299-4B9E-B2FE-CCE405300987}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Delgate1", "Delgate1\Delgate1.csproj", "{FF5C3C7C-E299-4B9E-B2FE-CCE405300987}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Event_Delegate", "Event_Delegate\Event_Delegate.csproj", "{32836E61-CDD9-4C29-B378-CC1E432BD7F0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Event_Delegate", "Event_Delegate\Event_Delegate.csproj", "{32836E61-CDD9-4C29-B378-CC1E432BD7F0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EventChuanNet", "EventChuanNet\EventChuanNet.csproj", "{70E164E3-E600-4037-B961-F49FD5AFBE64}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EventChuanNet", "EventChuanNet\EventChuanNet.csproj", "{70E164E3-E600-4037-B961-F49FD5AFBE64}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultiThreading", "Multi Threading\MultiThreading.csproj", "{7CCE3575-E502-4992-8E7C-D2BC6C2B02C1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -93,6 +95,10 @@ Global
 		{70E164E3-E600-4037-B961-F49FD5AFBE64}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{70E164E3-E600-4037-B961-F49FD5AFBE64}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{70E164E3-E600-4037-B961-F49FD5AFBE64}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7CCE3575-E502-4992-8E7C-D2BC6C2B02C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7CCE3575-E502-4992-8E7C-D2BC6C2B02C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7CCE3575-E502-4992-8E7C-D2BC6C2B02C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7CCE3575-E502-4992-8E7C-D2BC6C2B02C1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
